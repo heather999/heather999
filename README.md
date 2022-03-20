@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+- 🔭 I am Heather Kelly, a Software Developer working with the Dark Energy Science Collaboration ([DESC](http://lsstdesc.org)).
